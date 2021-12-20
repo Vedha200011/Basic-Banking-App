@@ -4,3 +4,6 @@ This app is made to complete Task#2 of Graduate Rotational Intership Program(GRI
 
 By using this app,User can see their bank details and can transfer money to other user's. Then, his/her can able see their transactions history.
 
+Youtube link
+https://youtube.com/watch?v=vGcrvtYG32E&feature=share
+
